@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1439BE0A-AD46-491E-BAEB-DA4034FF5067"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "502D377F-12A9-4252-9BC6-A696FB64DB05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScanningDataCamera/Model/GS1_data_matrix_dic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "502D377F-12A9-4252-9BC6-A696FB64DB05 - 9741a33d0235cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for gs1_dataMatrix_Code"
+                  moduleName = "ScanningDataCamera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xraycarpacspractice/Documents/workspace/ScanningDataCameraiOS17P/ScanningDataCamera/Model/GS1_data_matrix_dic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "502D377F-12A9-4252-9BC6-A696FB64DB05 - d7c25d3126323e25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScanningDataCamera.gs1_dataMatrix_Code.unsafeMutableAddressor : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "ScanningDataCamera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xraycarpacspractice/Documents/workspace/ScanningDataCameraiOS17P/ScanningDataCamera/Model/GS1_data_matrix_dic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
